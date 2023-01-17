@@ -91,7 +91,7 @@ export const USER_CONFIG = {
       ]
     },
     {
-      name: "老婆1",
+      name: "老婆2",
       id: "",
       useTemplateId: "",
       province: "",
