@@ -6,12 +6,12 @@ export const USER_CONFIG = {
   // 公众号APP_ID
   // 建议不要填这里，请使用文档中github secret的方法进行保密配置，保护您的隐私安全。
   // 如果你非要填这里也行。脚本也能运行
-  APP_ID: "",
+  APP_ID: "wx07cb1053e2a7a94b",
   
   // 公众号APP_SECRET
   // 建议不要填这里，请使用文档中github secret的方法进行保密配置，保护您的隐私安全。
   // 如果你非要填这里也行。脚本也能运行
-  APP_SECRET: "",
+  APP_SECRET: "8d107bbbfed01dd2c6652aeccf21516a",
   
   // 是否给文字设置多彩颜色, 和emoji不兼容
   // 如果您使用了微信测试号的模板中含有emoji表情，请填 false
@@ -51,7 +51,7 @@ export const USER_CONFIG = {
   
   // 每日一言的内容类型
   // 可以填写【动画，漫画，游戏，小说，原创，网络，其他】； 随机则填写 ""
-  LITERARY_PREFERENCE: "",
+  LITERARY_PREFERENCE: "动画",
   
   
   /**
@@ -60,15 +60,15 @@ export const USER_CONFIG = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: "祖宗",
+      name: "榨菜",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "oiWNF6N69-5v70jGnwxaHcDREa0c",
+      id: "oX7WV6gQMmR7b77HwMrgUKErYvRw",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "1ZKw9qfT4GsPgU_fI5Gw8RQnnHGUN4cb0G6twYmTZ00",
+      useTemplateId: "vZh2iViBdCAWq7McK7FO4GjwGeegC9bK-Rlgjx0KDKM",
       // 所在省份
-      province: "广东",
+      province: "江苏",
       // 所在城市
-      city: "广州",
+      city: "南京",
       // 新历生日, 仅用作获取星座运势, 格式必须
       horoscopeDate: '11-20',
       // 获取什么时候的星座运势，可选：['今日', '明日', '本周', '本月', '今年'], 留空则随机
